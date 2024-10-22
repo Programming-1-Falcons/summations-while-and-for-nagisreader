@@ -1,5 +1,5 @@
 #for Summation code here
-user_num = int(input("Enter a number: "))
+user_num = int(input(""))
 x = 0
 times_looped = 0
 total = 0
